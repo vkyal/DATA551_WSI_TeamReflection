@@ -109,9 +109,12 @@ comment on the following areas:
 - What went well and poorly throughout the team project experience?
 
 
-Varshita: I w worked on Python dashboard, along with the documentation and Heroku.
+Varshita: I  worked on Python dashboard, along with the documentation and Heroku.
+
 Sweta: She worked on Python dashboard, along with the documentation and Heroku. 
+
 Ujjwal : He worked on R dashboard , Heroku and documentation.
+
 Nowshaba: She worked on R dashboard and documentation.
 
 As a whole , the team was very good working with. Everyone was co-operative and helpful.
